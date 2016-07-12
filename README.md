@@ -1,4 +1,4 @@
-# An NPM + Webpack + Build System
+# An NPM + Webpack + Cycle.js Build System
 
 ##To use run the following commands
 ``npm install``
@@ -47,3 +47,4 @@
 | 4      | Allow for Webpack use                                                | Yes      |
 | 5      | Allow for use with React, React Dom and JSX, To be use with Webpack. | Yes      |
 | 6      | Convert from a Gulp build to an NPM + Webpack Build                  | Yes      |
+| 7      | Convert from a react flavored build system over to cycle.js          | NO       |
